@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment & Credentials (DO NOT UPLOAD)
+.env
+.env.*
+!.env.example
+
+# Midnight Network & ZK Sensitive State
+*.seed
+*-state/
+.midnight-state.json
+.midnight-wallet-state/
+*.wallet
+
+# Firebase & Deployment Debug Logs
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+

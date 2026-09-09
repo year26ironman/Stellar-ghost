@@ -1,4 +1,4 @@
-# Rule: Compact Smart Contract Standards (Midnight Network)
+# Rule: Compact Smart Contract Standards (Midnight Network) 
 
 ## Objective
 Maintain rigorous correctness and zero-knowledge circuit security when writing and compiling Compact smart contracts.

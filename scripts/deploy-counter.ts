@@ -5,7 +5,7 @@
 import { MIDNIGHT_CONFIG, getNetworkLabel } from "../src/configuration/midnight.config";
 
 async function main() {
-  console.log("==================================================");
+  console.log("=================================================="); 
   console.log("GhostFree — Midnight Contract Deployment");
   console.log(`Target Network: ${getNetworkLabel(MIDNIGHT_CONFIG.networkId)}`);
   console.log(`Node RPC:       ${MIDNIGHT_CONFIG.nodeUrl}`);

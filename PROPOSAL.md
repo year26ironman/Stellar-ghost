@@ -1,5 +1,5 @@
 # Product Proposal
-
+ 
 ## What is the product, and who uses it?
 **GhostFree** is a decentralized, privacy-first calamity aid distribution dApp built on the **Midnight Network**.
 - **Beneficiaries (Citizens & Disaster Victims):** Displaced residents affected by typhoons and natural catastrophes who need to claim emergency relief aid ("ayuda") with zero identity exposure and zero gas fees.

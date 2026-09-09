@@ -11,7 +11,7 @@ interface WalletButtonProps {
   variant?: "primary" | "compact";
   className?: string;
 }
-
+ 
 export const WalletButton: React.FC<WalletButtonProps> = ({
   variant = "primary",
   className = "",

@@ -8,7 +8,7 @@ import React from "react";
 import { Shield } from "lucide-react";
 
 interface LoadingSpinnerProps {
-  size?: "sm" | "md" | "lg";
+  size?: "sm" | "md" | "lg"; 
   label?: string;
   sublabel?: string;
 }

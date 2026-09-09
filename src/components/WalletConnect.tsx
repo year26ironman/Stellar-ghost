@@ -10,7 +10,7 @@ import { useMidnightWallet } from "../contexts/MidnightWalletContext";
 interface WalletConnectProps {
   className?: string;
   showDetails?: boolean;
-}
+} 
 
 export const WalletConnect: React.FC<WalletConnectProps> = ({
   className = "",

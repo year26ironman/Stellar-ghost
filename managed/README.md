@@ -1,4 +1,4 @@
-# Managed Compact Artifacts
+# Managed Compact Artifacts 
 
 This directory contains the auto-generated TypeScript definitions, CommonJS runtime bindings, circuit manifests, and verification assets compiled from the Compact smart contracts:
 

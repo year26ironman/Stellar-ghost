@@ -1,6 +1,6 @@
 # GhostFree — Decentralized Privacy-First Calamity Aid & Counter Contract
 
-
+ 
 [![Network](https://img.shields.io/badge/Network-Midnight_Preprod-3A0CA3?style=flat-square&logo=polkadot&logoColor=white)](https://midnight.network)
 [![Smart Contract](https://img.shields.io/badge/Contract-Compact_ZK-10B981?style=flat-square&logo=webassembly&logoColor=white)](https://docs.midnight.network)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)

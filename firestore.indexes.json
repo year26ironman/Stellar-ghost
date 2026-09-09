@@ -9,7 +9,7 @@
       ]
     },
     {
-      "collectionGroup": "relief_operations",
+      "collectionGroup": "relief_operations", 
       "queryScope": "COLLECTION",
       "fields": [
         { "fieldPath": "adminUid", "order": "ASCENDING" },

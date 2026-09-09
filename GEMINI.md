@@ -3,7 +3,7 @@
 ## System Identity & Core Philosophy
 GhostFree is a decentralized, privacy-first calamity aid distribution dApp built on the **Midnight Network**.
 **Tagline:** *"Stop the ghosts. Protect the people."*
-
+ 
 Every line of code and user interface decision in this codebase must adhere to the core principles below.
 
 ---

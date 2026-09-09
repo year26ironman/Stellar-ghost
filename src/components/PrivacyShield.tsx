@@ -12,7 +12,7 @@ interface PrivacyShieldProps {
 }
 
 export const PrivacyShield: React.FC<PrivacyShieldProps> = ({
-  variant = "inline",
+  variant = "inline", 
   message = "Your data never leaves this device",
 }) => {
   if (variant === "card") {

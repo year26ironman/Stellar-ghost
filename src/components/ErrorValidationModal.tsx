@@ -8,7 +8,7 @@ import React from "react";
 import { AlertCircle, X, ArrowRight } from "lucide-react";
 
 interface ErrorValidationModalProps {
-  isOpen: boolean;
+  isOpen: boolean; 
   error: string | null;
   onClose: () => void;
   title?: string;

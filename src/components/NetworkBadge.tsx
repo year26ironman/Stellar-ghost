@@ -15,7 +15,7 @@ interface NetworkBadgeProps {
 }
 
 export const NetworkBadge: React.FC<NetworkBadgeProps> = ({
-  networkId,
+  networkId, 
   connected,
   className = "",
 }) => {

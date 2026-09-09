@@ -5,7 +5,7 @@
 Write-Host "Checking Node.js..." -ForegroundColor Cyan
 $nodeVer = node -v
 Write-Host "Node.js: $nodeVer" -ForegroundColor Green
-
+ 
 Write-Host "`nChecking Docker & Midnight Proof Server..." -ForegroundColor Cyan
 if (Get-Command docker -ErrorAction SilentlyContinue) {
     Write-Host "Docker is available." -ForegroundColor Green

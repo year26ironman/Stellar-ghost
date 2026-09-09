@@ -4,7 +4,7 @@
 // ==============================================================================
 
 import { describe, it, expect, beforeEach } from "vitest";
-
+ 
 // Simulation harness representing the counter contract circuits and ledger state
 interface LedgerState {
   counter: bigint;

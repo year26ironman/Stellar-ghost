@@ -1,6 +1,6 @@
 // ============================================
 // GhostFree — Midnight Network Root Configuration
-// ============================================
+// ============================================ 
 
 export const MIDNIGHT_CONFIG = {
   networkId: "preprod",

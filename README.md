@@ -1,4 +1,4 @@
-# GhostFree — Decentralized Privacy-First Calamity Aid & Counter Contract
+# GhostFree — Decentralized Privacy-First Calamity Aid & Counter Contract 
 
  
 [![Network](https://img.shields.io/badge/Network-Midnight_Preprod-3A0CA3?style=flat-square&logo=polkadot&logoColor=white)](https://midnight.network)
